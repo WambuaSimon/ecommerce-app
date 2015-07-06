@@ -1,0 +1,121 @@
+body{
+background:skyblue;
+}
+
+
+ .margin_wrapper{
+ width:1000px;
+ height:auto;
+ margin:auto;}
+ 
+ .header_wrapper{
+ width:1000px;
+ height:100px;
+ margin:auto;
+
+ }
+ #banner{float:right;
+}
+
+#logo{
+float:right;
+}
+.menubar{
+width:1000px;
+height:50px;
+background:gray;
+color:white;
+margin-left:12.5%;
+margin-bottom:0%;}
+
+#menu{
+padding:0;
+margin:0;
+line-height:40px; 
+float:left;
+}
+#menu li{
+list-style:none;
+display:inline;}
+#menu a{
+text-decoration:none;
+color:white;
+padding:8px;
+margin:5px;
+font-size:18px;
+font-family:COMIC SANS MS; }
+
+#menu a:hover{color:orange; font-weight:bolder; text-decoration:underline;}
+
+#form{
+float:right;
+padding-right:8px;
+line-height:40px;}
+
+.content_wrapper{
+width:1000px;
+
+margin:auto;
+background:pink;}
+
+#content_area{
+width:800px;
+
+float:right;
+background:pink;
+}
+
+#sidebar{
+width:200px;
+
+background:green;
+float:left;}
+
+#sidebar_title{
+background:white;
+color:black;
+font-size:24px;
+font-family:arial;
+padding:10px;
+text-align:center;
+}
+
+#cart{
+text-align:center;
+}
+
+#carts{list-style:none; margin:5px; 
+}
+#carts a{
+color:white; padding:10px; margin:5px;  font-size:20px;
+font-family:comic sans ms;text-decoration:none;
+}
+
+#carts a:hover{color:orange;font-weight:bolder;text-decoration:underline;}
+#footer{
+width:1000px;
+height:100px;
+background:gray;
+clear:both;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
